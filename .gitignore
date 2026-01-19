@@ -1,0 +1,18 @@
+# Entorno virtual
+venv/
+
+# Django
+__pycache__/
+*.pyc
+db.sqlite3
+staticfiles/
+media/
+
+# Variables de entorno
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+contactos_recibidos.txt
